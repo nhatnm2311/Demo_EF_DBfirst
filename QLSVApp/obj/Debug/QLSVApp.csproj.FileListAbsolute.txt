@@ -1,0 +1,13 @@
+D:\QLSVApp\QLSVApp\bin\Debug\QLSVApp.exe.config
+D:\QLSVApp\QLSVApp\bin\Debug\QLSVApp.exe
+D:\QLSVApp\QLSVApp\bin\Debug\QLSVApp.pdb
+D:\QLSVApp\QLSVApp\bin\Debug\EntityFramework.dll
+D:\QLSVApp\QLSVApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLSVApp\QLSVApp\bin\Debug\EntityFramework.xml
+D:\QLSVApp\QLSVApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLSVApp\QLSVApp\obj\Debug\QLSVApp.csprojResolveAssemblyReference.cache
+D:\QLSVApp\QLSVApp\obj\Debug\QLSVApp.Form1.resources
+D:\QLSVApp\QLSVApp\obj\Debug\QLSVApp.Properties.Resources.resources
+D:\QLSVApp\QLSVApp\obj\Debug\QLSVApp.csproj.GenerateResource.Cache
+D:\QLSVApp\QLSVApp\obj\Debug\QLSVApp.exe
+D:\QLSVApp\QLSVApp\obj\Debug\QLSVApp.pdb
